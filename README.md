@@ -2,5 +2,8 @@
 
 このリポジトリを使って pull request の練習をしよう！
 
-私はMarkdownの練習をするよ
-参考リンク:[http://ennui.hatenablog.com/entry/2012/09/21/041356](http://ennui.hatenablog.com/entry/2012/09/21/041356)
+私は markdown と merge と reject の練習をするよ
+
+## 参考リンク
+- [pull request のおくりかた](http://ennui.hatenablog.com/entry/2012/09/21/041356)
+- [Github Preview](http://github-preview.herokuapp.com/)
